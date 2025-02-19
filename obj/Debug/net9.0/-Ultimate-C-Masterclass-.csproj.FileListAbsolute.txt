@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\bin\Debug\net9.0\-Ultimate-C-Masterclass-.exe
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\bin\Debug\net9.0\-Ultimate-C-Masterclass-.deps.json
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\bin\Debug\net9.0\-Ultimate-C-Masterclass-.runtimeconfig.json
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\bin\Debug\net9.0\-Ultimate-C-Masterclass-.dll
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\bin\Debug\net9.0\-Ultimate-C-Masterclass-.pdb
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\obj\Debug\net9.0\-Ultimate-C-Masterclass-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\obj\Debug\net9.0\-Ultimate-C-Masterclass-.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\obj\Debug\net9.0\-Ultimate-C-Masterclass-.AssemblyInfo.cs
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\obj\Debug\net9.0\-Ultimate-C-Masterclass-.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\obj\Debug\net9.0\-Ultimate-C-Masterclass-.sourcelink.json
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\obj\Debug\net9.0\-Ultimate-C-Masterclass-.dll
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\obj\Debug\net9.0\refint\-Ultimate-C-Masterclass-.dll
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\obj\Debug\net9.0\-Ultimate-C-Masterclass-.pdb
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\obj\Debug\net9.0\-Ultimate-C-Masterclass-.genruntimeconfig.cache
+C:\Users\USER\Documents\github\-Ultimate-C-Masterclass-\obj\Debug\net9.0\ref\-Ultimate-C-Masterclass-.dll
